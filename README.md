@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Computer Science major, Eagle Scout (BSA), hobbyist...
+GitHub is neat, I guess.
